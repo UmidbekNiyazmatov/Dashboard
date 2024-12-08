@@ -22,7 +22,7 @@
 
         </div>
         <div class=" pt-10 "  >
-            <div class=" hover:bg-purple-900 rounded-xl   flex  items-center gap-3  p-3 mt-5 ">
+            <div class="rounded-xl   flex  items-center gap-3  p-3 mt-5 ">
                 <div>
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M9 22H15C20 22 22 20 22 15V9C22 4 20 2 15 2H9C4 2 2 4 2 9V15C2 20 4 22 9 22Z"
@@ -42,7 +42,7 @@
                 <router-link to="/dashboard">Dashboard</router-link>
                 
             </div>
-            <div class="flex  items-center gap-3 p-3 mt-5 ">
+            <div class=" rounded-xl flex  items-center gap-3 p-3 mt-5 ">
                 <div>
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path
@@ -71,7 +71,7 @@
 
                 </div>
             </div>
-            <div class="flex  items-center gap-3  p-3 mt-5 ">
+            <div class=" rounded-xl bg-purple-900 flex  items-center gap-3  p-3 mt-5 ">
                 <div>
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path
@@ -97,7 +97,7 @@
 
                 </div>
             </div>
-            <div class="flex  items-center gap-3  p-3 mt-5 ">
+            <div class=" rounded-xl flex  items-center gap-3  p-3 mt-5 ">
                 <div>
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path
@@ -159,7 +159,7 @@
 
                 </div>
             </div>
-            <div class="flex  items-center gap-3  p-3 mt-5 ">
+            <div class=" rounded-xl flex  items-center gap-3  p-3 mt-5 ">
                 <div>
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path

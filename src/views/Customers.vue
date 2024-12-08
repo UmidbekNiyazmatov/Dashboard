@@ -6,8 +6,8 @@ import BaseTable from "../components/table.vue"
 
 <template>
   <div class="  ">
-    <div class=" flex justify-center gap-[150px] rounded-3xl  bg-white mx-[200px] py-10 ">
-      <div class="flex gap-5">
+    <div class=" flex  gap-full rounded-3xl   bg-white mx-[200px] px-5 py-10 ">
+      <div class="flex gap-5 justify-start w-full ">
         <span class="p-6 bg-green-200 rounded-full ">
           <svg width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path
@@ -41,7 +41,7 @@ import BaseTable from "../components/table.vue"
         </div>
       </div>
 
-      <div class="flex gap-5 border-x-2 px-40 ">
+      <div class="flex gap-5 border-x-2 justify-center w-full  ">
         <span class="p-6 bg-green-200 rounded-full ">
           <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M24.0666 31.75L26.6 34.2834L31.6666 29.2167" stroke="#00AC4F" stroke-width="2.5"
@@ -73,7 +73,7 @@ import BaseTable from "../components/table.vue"
         </div>
       </div>
 
-      <div class="flex gap-5 ">
+      <div class="flex gap-5 justify-end w-full ">
         <span class="p-6 bg-green-200 rounded-full ">
           <svg width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path
