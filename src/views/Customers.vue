@@ -5,8 +5,8 @@ import BaseTable from "../components/table.vue"
 </script>
 
 <template>
-  <div class="  ">
-    <div class=" flex  gap-full rounded-3xl   bg-white mx-[200px] px-5 py-10 ">
+  <div >
+    <div class=" flex  gap-full rounded-3xl   bg-white mx-[150px] px-5 py-10 ">
       <div class="flex gap-5 justify-start w-full ">
         <span class="p-6 bg-green-200 rounded-full ">
           <svg width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -23,11 +23,10 @@ import BaseTable from "../components/table.vue"
               d="M32.0947 35.0004C33.3547 34.7379 34.5447 34.2304 35.5247 33.4779C38.2547 31.4304 38.2547 28.0529 35.5247 26.0054C34.5622 25.2704 33.3897 24.7804 32.1472 24.5004"
               stroke="#00AC4F" stroke-width="2.625" stroke-linecap="round" stroke-linejoin="round" />
           </svg>
-
         </span>
         <div class="bg-white">
           <p class="text-neutral-400">Total Customers</p>
-          <span class="text-4xl  "><b>5,423</b></span>
+          <span class="text-3xl  "><b>5,423</b></span>
           <div class="flex ">
             <span class="text-green-600 flex items-center pr-1 ">
               <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">

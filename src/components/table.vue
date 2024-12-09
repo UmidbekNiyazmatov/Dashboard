@@ -8,7 +8,7 @@ defineProps({
 </script>
 
 <template>
-    <div class=" m-24 p-10 relative overflow-x-auto shadow-md sm:rounded-lg mx-[200px] bg-white ">
+    <div class=" m-24 p-10 relative overflow-x-auto shadow-md sm:rounded-lg mx-[150px] bg-white ">
         <h1 class="text-4xl">All Customers</h1>
         <div class="flex items-center">
             <span class="w-full text-green-600"> Active Members</span>
@@ -23,17 +23,17 @@ defineProps({
                                 stroke-linejoin="round" />
                         </svg>
                     </span>
-                    <input type="text" name="" id="" class=" rounded-2xl bg-neutral-100 pl-12 p-5 w-96"
+                    <input type="text" name="" id="" class=" rounded-2xl bg-neutral-100 pl-12 p-3 w-72"
                         placeholder="Search">
                 </div>
-                <div class="flex items-center gap-2 bg-neutral-100 rounded-2xl px-5 ">
+                <button class="flex items-center gap-2 bg-neutral-100 rounded-2xl px-5 ">
                     <span class="text-neutral-500">Short by: </span> <b> Neweat</b> <span>
                         <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M4.5 6.75L9 11.25L13.5 6.75" stroke="#3D3C42" stroke-width="1.5"
                                 stroke-linecap="round" stroke-linejoin="round" />
                         </svg>
                     </span>
-                </div>
+                </button>
             </div>
         </div>
         <table class="w-full text-xl text-left rtl:text-right text-gray-500 dark:text-gray-800">

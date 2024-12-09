@@ -7,10 +7,10 @@ import Modal from "@/components/Modal.vue";
 
 <template>
  
-<div class="flex" >
+<div class="flex   " >
    
     <Modal/>
-    <div  class="bg-neutral-50 w-full " >
+    <div  class="bg-neutral-50 w-full h-dvh " >
     <Navbar />
     <main>
       <RouterView v-slot="{ Component }">
